@@ -5,6 +5,7 @@ A full-stack web application designed to connect people in urgent need of blood 
 This project is built as a real-world MERN stack application focusing on functionality, scalability, and clean architecture.
 
 🛠️ Tech Stack
+
 Frontend
 
 React.js
@@ -26,6 +27,7 @@ MongoDB
 Mongoose
 
 ✨ Features
+
 🔐 User Authentication
 
 User registration
@@ -86,28 +88,6 @@ blood-donation-platform
 │
 └── README.md
 
-⚙️ Environment Variables
-
-Create a .env file inside the backend folder:
-
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-
-🔗 API Endpoints
-Authentication
-
-POST /api/auth/register – Register a user
-
-POST /api/auth/login – Login a user
-
-Blood Requests
-
-POST /api/requests – Create a blood request
-
-GET /api/requests – Get all blood requests
-
-PUT /api/requests/:id/accept – Accept a blood request
-
 🧠 What I Learned
 
 Building a complete MERN stack application
@@ -141,9 +121,9 @@ Aspiring Full Stack Developer
 
 GitHub: https://github.com/LIMITHAD
 
-Email: limitha.dev@gmail.com
+Email: limithad05@gmail.com
 
-LinkedIn: (Add your LinkedIn profile)
+LinkedIn: https://www.linkedin.com/in/limitha-d-7b6b402a1/
 
 ⭐ Feedback
 
